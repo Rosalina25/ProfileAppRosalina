@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="_hi">Hi! let\'s get acquainted</string>
+    <string name="_maylika">\@font:maylika_calligraphy</string>
+    <string name="_style1">\@font:maylika_calligraphy</string>
+    <string name="_hii">Hi!Let\'s get acquainted</string>
+    <string name="_hello">Hello, Friends!</string>
+    <string name="_lets">let\'s get acquainted</string>
+    <string name="check_my_bio">Check My Bio</string>
+    <string name="_introduce">introducing myself</string>
+    <string name="_todo">TODO</string>
+    <string name="_isi">: Rosalina Saputri \n:Oca\n:January 25, 2002\n:Banjarnegara\n:Writing and Reading\n:Black,Brown, and Pink\n:Chicken noodle\n:College student\n:(+62)838 4427 9694\n:rosalina250102@gmail.com</string>
+    <string name="_bio">Name\nNick name\nDate of Birth\nPlace of birth\nHobby\nFavorite Color\nFavorite food\nStatus\nPhone number\nEmail address</string>
+</resources>
